@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mungowz
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently studing machine learning
 
 <!---
 mungowz/mungowz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
